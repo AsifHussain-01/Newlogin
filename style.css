@@ -1,0 +1,158 @@
+.body {
+    background: rgb(12, 158, 202);
+    background: linear-gradient(90deg, rgba(12, 158, 202, 1) 0%, rgba(94, 187, 191, 1) 100%);
+    background-repeat: no-repeat;
+}
+
+.contaner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background: rgb(12, 158, 202);
+    background: linear-gradient(90deg, rgba(12, 158, 202, 1) 0%, rgba(94, 187, 191, 1) 100%);
+    background-repeat: no-repeat;
+}
+
+.name {
+    margin-top: 50px;
+
+}
+
+.cname {
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.yn {
+    color: white;
+
+
+}
+
+.fs {
+    height: 20px;
+    position: relative;
+    left: 71px;
+}
+
+.ls {
+    height: 20px;
+    position: relative;
+    left: 97px;
+
+}
+.email{
+color: white;
+padding-top: 15px;
+}
+.semail{
+    width: 359px;
+    position: relative;
+    left: 71px;
+    height: 20px;
+}
+.phone{
+    color: white;
+    padding-top: 15px;
+
+}
+.p1{
+    width: 112px;
+    height: 20px;
+    position: relative;
+    left: 97px;
+}
+.p2{
+    width: 112px;
+    height: 20px;
+    position: relative;
+    left: 97px;
+}
+.p3{
+    width: 112px;
+    height: 20px;
+    position: relative;
+    left: 97px;
+}
+.ms{
+color: white;
+padding-top: 15px;
+}
+.ot{
+width: 250px;
+height: 20px;
+position: relative;
+left: 29px;
+}
+.mass{
+    color: white;
+    padding-top: 15px;
+}
+.minput{
+position: relative;
+left: 78px;
+height: 80px;
+width: 358px;
+}
+.md{
+    position: relative;
+    left: 71px;
+}
+.vfchead{
+    display: flex;
+    padding-top: 15px;
+}
+.vf{
+    color: white;
+}
+.vfb{
+    width: 250px;
+    background-color: white;
+    height: 45px;
+    position: relative;
+    left: 67px;
+}
+.box{
+    position: relative;
+    top: 5px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+.im{
+    text-align: center;
+    position: relative;
+    left: 15px;
+    
+}
+.svg{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 75px;
+    top: 10px;
+}
+.emty{
+border: 1px solid white;
+height: 1px;
+background-color: white;
+width: 520px;
+margin-top: 15px;
+}
+.but{
+    margin-top: 15px;
+    margin-bottom: 33px;
+}
+.button{
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
